@@ -54,7 +54,8 @@
 
 ### 2️⃣ **위성사진 전처리**  
 - **모델**: SwinIR 모델을 사용하여 이미지 품질과 해상도를 향상시킵니다.  
-- **결과**: 고해상도 이미지로 세부적인 객체 탐지가 가능해집니다.  
+- **결과**: 고해상도 이미지로 세부적인 객체 탐지가 가능해집니다.
+- **학습** [![Open In Colab](https://colab.research.google.com/drive/1NUgQpX964DWAFXM8IGEiXzYO5Yfb-k7F?usp=sharing)]
 - 📂 **Data Download** [Data Download Link](https://drive.google.com/drive/folders/1vFBLQ8Z7lBVCZ2qQgFzWSMkbLEdh2jmB?usp=sharing) <!-- 여기에 실제 데이터 다운로드 링크를 삽입하세요 -->
 
 
