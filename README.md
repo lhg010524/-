@@ -107,3 +107,6 @@
 ---
 
 ✨ **One-Click Detection Service**를 통해 누구나 위성 데이터를 활용할 수 있는 세상을 만들어갑니다! 🚀 
+
+
+PPT.(https://www.canva.com/design/DAGYDOfFGa8/iraMdiM5eu2H_2b8r8oecg/view?utm_content=DAGYDOfFGa8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1aafe4ed39)
