@@ -55,6 +55,9 @@
 ### 2️⃣ **위성사진 전처리**  
 - **모델**: SwinIR 모델을 사용하여 이미지 품질과 해상도를 향상시킵니다.  
 - **결과**: 고해상도 이미지로 세부적인 객체 탐지가 가능해집니다.  
+- 📂 **Data Download** [Data Download Link](https://drive.google.com/drive/folders/1vFBLQ8Z7lBVCZ2qQgFzWSMkbLEdh2jmB?usp=sharing) <!-- 여기에 실제 데이터 다운로드 링크를 삽입하세요 -->
+
+
 
 ### 3️⃣ **차량 객체 세그멘테이션**  
 - **알고리즘**: Mask R-CNN을 활용하여 차량 객체를 탐지하고 정확히 세그멘테이션합니다.  
